@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ptsfe/static/css/main.3693018b.css",
+    "main.js": "/ptsfe/static/js/main.93ddf81c.js",
+    "static/js/787.00f40e95.chunk.js": "/ptsfe/static/js/787.00f40e95.chunk.js",
+    "static/media/repairv.mp4": "/ptsfe/static/media/repairv.87451edaa31722f8f896.mp4",
+    "static/media/quote.jpeg": "/ptsfe/static/media/quote.f985faa0743ba1fe6bf1.jpeg",
+    "static/media/Customer-Service2.png": "/ptsfe/static/media/Customer-Service2.d57734416783af2c562b.png",
+    "static/media/dell g15.jpg": "/ptsfe/static/media/dell g15.0a464dfd005c221dca05.jpg",
+    "static/media/LRepair.jpg": "/ptsfe/static/media/LRepair.9c4f4bd588a70c3193b4.jpg",
+    "static/media/bg.jpg": "/ptsfe/static/media/bg.e08145651034d5a3a858.jpg",
+    "static/media/canon 2900.jpg": "/ptsfe/static/media/canon 2900.1bc7dd2c8dd14913fad2.jpg",
+    "static/media/hp-omen-16.jpg": "/ptsfe/static/media/hp-omen-16.94677bd4e779341e8504.jpg",
+    "static/media/NEC.jpg": "/ptsfe/static/media/NEC.0cfc9c1a3ebdaf29156b.jpg",
+    "static/media/Router.jpg": "/ptsfe/static/media/Router.c3e43b29ad01536e2e9a.jpg",
+    "static/media/dell desktop.jpg": "/ptsfe/static/media/dell desktop.0767778624348f2a5e72.jpg",
+    "static/media/HP Victus.jpg": "/ptsfe/static/media/HP Victus.ae40d4d27e7b32773bd4.jpg",
+    "static/media/PTS.jpeg": "/ptsfe/static/media/PTS.e9042d9780e902737302.jpeg",
+    "static/media/logo.svg": "/ptsfe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ptsfe/index.html",
+    "main.3693018b.css.map": "/ptsfe/static/css/main.3693018b.css.map",
+    "main.93ddf81c.js.map": "/ptsfe/static/js/main.93ddf81c.js.map",
+    "787.00f40e95.chunk.js.map": "/ptsfe/static/js/787.00f40e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3693018b.css",
+    "static/js/main.93ddf81c.js"
+  ]
+}
